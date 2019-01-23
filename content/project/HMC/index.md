@@ -8,7 +8,7 @@ draft = false
 tags = ["Physics", "ML"]
 
 # Project summary to display on homepage.
-summary = "Tutorial on the HMC, which uses Hamiltonian dynamics to efficiently sample from high-dimensional distributions"
+summary = "Tutorial on HMC, which uses Hamiltonian dynamics to efficiently sample from high-dimensional distributions"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
