@@ -13,7 +13,7 @@ role = "PhD candidate in Physics"
 organizations = [ { name = "UC Berkeley", url = "https://www.berkeley.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include ultracold atoms, superconducting quantum bits, and machine learning."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "ramasesh@berkeley.edu"
@@ -22,23 +22,20 @@ email = "ramasesh@berkeley.edu"
 interests = [
   "Quantum Information",
   "Machine Learning",
+  "Ultracold Atoms"
 ]
 
 # List qualifications (such as academic degrees)
-# [[education.courses]]
-#   course = "PhD in Artificial Intelligence"
-#   institution = "Stanford University"
-#   year = 2012
-# 
-# [[education.courses]]
-#   course = "MEng in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2009
-# 
-# [[education.courses]]
-#   course = "BSc in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2008
+
+[[education.courses]]
+  course = "MEng in Electrical Engineering"
+  institution = "Massachusetts Institute of Technology"
+  year = 2013
+
+[[education.courses]]
+  course = "SB in Physics, Electrical Engineering"
+  institution = "Massachusetts Institute of Technology"
+  year = 2012
 
 # Social/Academic Networking
 #
@@ -61,7 +58,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:ramasesh@berkeley.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
@@ -80,13 +77,11 @@ interests = [
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[social]]
-#   icon = "cv"
-#   icon_pack = "ai"
-#   link = "files/cv.pdf"
+[[social]]
+  icon = "cv"
+  icon_pack = "ai"
+  link = "files/CV.pdf"
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a physics PhD student in Berkeley, CA, working on building quantum processors out of superconducting qubits.  At Berkeley, I work in the [Quantum Nanoelectronics Lab](http://qnl.berkeley.edu) under the guidance of [Dr. Irfan Siddiqi](https://physics.berkeley.edu/people/faculty/irfan-siddiqi).  I received my Master's studying ultracold atoms with [Dr. Martin Zwierlein](http://www.rle.mit.edu/quantumgas/) at MIT.  

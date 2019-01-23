@@ -61,19 +61,19 @@ privacy_pack = false
 gravatar = false
 
 # Contact Widget setup
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "ramasesh@berkeley.edu"
+  # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-  office_hours = """Monday 10:00 to 13:00<br>
-                    Wednesday 09:00 to 10:00<br>
-                    Otherwise email to book an appointment"""
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-  keybase = ""  # Your keybase.io username.
+  # office_hours = """Monday 10:00 to 13:00<br>
+  #                   Wednesday 09:00 to 10:00<br>
+  #                   Otherwise email to book an appointment"""
+  # phone = "888 888 88 88"
+  # skype = "echo123"
+  # telegram = ""
+  # keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  appointment_url = ""
+  # appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
