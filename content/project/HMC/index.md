@@ -1,14 +1,14 @@
 +++
-title = "HMC"
-date = 2019-01-23T01:41:35-08:00
+title = "Intro to Sampling using Hamiltonian Monte-Carlo"
+date = 2019-01-23T02:04:35-08:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["Physics", "ML"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Tutorial on the HMC, which uses Hamiltonian dynamics to efficiently sample from high-dimensional distributions"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://nbviewer.jupyter.org/github/ramasesh/journalclubs/blob/master/hamiltonian_MC/Introduction-Hamiltonian-MC.ipynb"
 
 # Links (optional).
 url_pdf = ""

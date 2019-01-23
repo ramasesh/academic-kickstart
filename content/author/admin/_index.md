@@ -83,5 +83,4 @@ interests = [
   link = "files/CV.pdf"
 
 +++
-
 I am a physics PhD student in Berkeley, CA, working on building quantum processors out of superconducting qubits.  At Berkeley, I work in the [Quantum Nanoelectronics Lab](http://qnl.berkeley.edu) under the guidance of [Dr. Irfan Siddiqi](https://physics.berkeley.edu/people/faculty/irfan-siddiqi).  I received my Master's studying ultracold atoms with [Dr. Martin Zwierlein](http://www.rle.mit.edu/quantumgas/) at MIT.  
