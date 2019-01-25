@@ -1,6 +1,6 @@
 +++
-title = "Eratosthenes and the Earth's Circumference"
-date = 2012-03-09  # Schedule page publish date.
+title = "Conservation of Momentum and Rockets"
+date = 2013-02-19  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
@@ -12,12 +12,12 @@ draft = false
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Around 240 BCE, Eratosthenes used the sun's rays and some clever geometry to indirectly measure the Earth's circumference.  In this video we explain how that measurement was done."
-abstract_short = "How Eratosthenes used the sun's rays to measure the Earth's circumference around 240 BCE (Grades 6-8)"
+abstract = "In this video, we explain the principle of conservation of momentum, and show how that principle allows rockets to produce the force they need to overcome gravity and blast off."
+abstract_short = "Basics of rockets, including model rocket demo (Grades 6-8)"
 
 # Name of event and optional event URL.
 event = "MIT K12 Outreach"
-# event_url = "https://example.org"
+event_url = "https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg"
 
 # Location of event.
 # location = "London, United Kingdom"
@@ -48,7 +48,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=rIF6Vj6pVNg&"
+url_video = "https://www.youtube.com/watch?v=SpWCOVNWUyo"
 url_code = ""
 
 # Does the content use math formatting?

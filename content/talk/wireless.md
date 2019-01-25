@@ -1,5 +1,5 @@
 +++
-title = "Eratosthenes and the Earth's Circumference"
+title = "How Information Travels Wirelessly"
 date = 2012-03-09  # Schedule page publish date.
 draft = false
 
@@ -12,8 +12,8 @@ draft = false
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "Around 240 BCE, Eratosthenes used the sun's rays and some clever geometry to indirectly measure the Earth's circumference.  In this video we explain how that measurement was done."
-abstract_short = "How Eratosthenes used the sun's rays to measure the Earth's circumference around 240 BCE (Grades 6-8)"
+abstract = "Information is traveling all around us in the form of waves.  Like waves on a string or water, these elecromagnetic waves travel great distances, and with some clever tricks we can use the waves to carry information for us.  This video explores how that's done."
+abstract_short = "Electromagnetic waves and the propagation of information (Grades 8-12)"
 
 # Name of event and optional event URL.
 event = "MIT K12 Outreach"
@@ -48,7 +48,7 @@ tags = []
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=rIF6Vj6pVNg&"
+url_video = "https://www.youtube.com/watch?v=Ax7dYaRiY6o&"
 url_code = ""
 
 # Does the content use math formatting?
